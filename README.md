@@ -1,11 +1,11 @@
 # 💫 About Me:
-            Welcome To My GitHub ...👋
-            👨‍🎓I'm -Mouelhi Aziz-Business Computing Student <br>
-            👨‍💻Having a good knowledge in C and Data Structures<br>
-            ❤️ fullstack js developer Using VueJS <br><br>  
-            
-                        🏋️love training and go to gym💪<br>                                     
-                        having fun with friends<br
+                                                                        Welcome To My GitHub ...👋
+                                                                        👨‍🎓I'm -Mouelhi Aziz-Business Computing Student 
+                                                                        👨‍💻Having a good knowledge in C and Data Structures
+                                                                        ❤️ fullstack js developer Using VueJS 
+                                                                        
+                                                                                    🏋️love training and go to gym💪                                 
+                                                                                         having fun with friends
 
 
 ## 🌐 Socials:
