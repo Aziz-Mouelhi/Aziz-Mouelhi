@@ -5,7 +5,7 @@
                                             ❤️ fullstack js developer Using VueJS 
                                                                         
                                                             🏋️love training and go to gym💪                                 
-                                                                having fun with friends
+                                                                having fun with friends 
 
 
 ## 🌐 Socials:
